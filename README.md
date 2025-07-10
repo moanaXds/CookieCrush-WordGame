@@ -10,6 +10,8 @@ Game Overview
 In CookieCrush-WordGame , you control a shooter at the bottom of the screen. Launch random alphabet cookies upward and strategically place them in a 5x15 grid to create valid English words (minimum 3 letters)  — horizontally, vertically, or diagonally. 
 Each matched word clears from the board and increases your score based on its length (score += word_length * 10). You only have 120 seconds  to make as many words as possible! 
 
+Screenshot_20250711-000524~4.png
+
 Features 
 --------
     Real-time dictionary validation with over 370,099 English words 
