@@ -2,13 +2,13 @@
 CookieCrush-WordGame 
 --------------------
 
-A fun and addictive 2D word puzzle game  inspired by Candy Crush, built using C++ with OpenGL . Instead of matching candies or cookies, players shoot alphabet tiles upward into a grid and form valid English words to score points before time runs out! 
+A fun and addictive 2D word puzzle game  inspired by Candy Crush, built using C++ with OpenGL. Instead of matching candies or cookies, players shoot alphabet tiles upward into a grid and form valid English words to score points before time runs out! 
 
 Game Overview 
 -------------
 
-In CookieCrush-WordGame , you control a shooter at the bottom of the screen. Launch random alphabet cookies upward and strategically place them in a 5x15 grid to create valid English words (minimum 3 letters)  — horizontally, vertically, or diagonally. 
-Each matched word clears from the board and increases your score based on its length (score += word_length * 10). You only have 120 seconds  to make as many words as possible! 
+In CookieCrush-WordGame, you control a shooter at the bottom of the screen. Launch random alphabet cookies upward and strategically place them in a 5x15 grid to create valid English words (minimum 3 letters) such as horizontally, vertically, or diagonally. 
+Each matched word clears from the board and increases your score based on its length (score += word_length * 10). You only have 120 seconds to make as many words as possible! 
 
 <img width="1916" height="1452" alt="1" src="https://github.com/user-attachments/assets/a1957e7a-e923-47d4-bc0d-d3208c64d78a" />
 
