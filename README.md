@@ -12,14 +12,16 @@ Each matched word clears from the board and increases your score based on its le
 
 <img width="1916" height="1452" alt="1" src="https://github.com/user-attachments/assets/a1957e7a-e923-47d4-bc0d-d3208c64d78a" />
 
-Terminal
---------
+Terminal Output
+---------------
 
 <img width="2752" height="1258" alt="3" src="https://github.com/user-attachments/assets/3b565140-7e79-420d-aaaa-ce1c3d6da0b3" />
 
 It Represent the bursting words.
 
 It also Searches the longest word that Burst.
+
+<img width="1916" height="1452" alt="Screenshot from 2025-07-11 16-28-07" src="https://github.com/user-attachments/assets/3350c118-df53-4398-bb7b-ecf1a8f53ca0" />
 
 Features 
 --------
