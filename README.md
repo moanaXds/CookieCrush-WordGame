@@ -10,7 +10,16 @@ Game Overview
 In CookieCrush-WordGame , you control a shooter at the bottom of the screen. Launch random alphabet cookies upward and strategically place them in a 5x15 grid to create valid English words (minimum 3 letters)  — horizontally, vertically, or diagonally. 
 Each matched word clears from the board and increases your score based on its length (score += word_length * 10). You only have 120 seconds  to make as many words as possible! 
 
-Screenshot_20250711-000524~4.png
+<img width="1916" height="1452" alt="1" src="https://github.com/user-attachments/assets/a1957e7a-e923-47d4-bc0d-d3208c64d78a" />
+
+Terminal
+--------
+
+<img width="2752" height="1258" alt="3" src="https://github.com/user-attachments/assets/3b565140-7e79-420d-aaaa-ce1c3d6da0b3" />
+
+It Represent the bursting words.
+
+It also Searches the longest word that Burst.
 
 Features 
 --------
@@ -23,34 +32,44 @@ Features
      
 
 Repository Contents 
--> wordshooter.cpp
+     
+    wordshooter.cpp
 	
 Main game logic and OpenGL rendering code
--> words_alpha.txt
+  
+    words_alpha.txt
 	
 Dictionary file containing 370,099 English words
--> image-data.bin
+   
+    image-data.bin
 	
 Binary file containing pre-loaded texture data for alphabets
--> util.cpp / util.h
+   
+    util.cpp / util.h
 	
 Utility functions for input handling, drawing, textures, and word search
--> Board.h / Board.cpp
+   
+    Board.h / Board.cpp
 	
 Logic for managing the 5x15 alphabet grid
--> Makefile
+    
+    Makefile
 	
 Build script for compiling the game on Linux
--> install-libraries.sh
+
+    install-libraries.sh
 	
 Script to install required dependencies on Ubuntu
--> Project.pdf
+
+    Project.pdf
 	
 Project documentation (if available)
--> CImg.h
+    
+    CImg.h
 	
 Image processing library used for texture loading
--> *.bmp files
+
+    *.bmp files
 
  Gameplay Tips 
 --------------
